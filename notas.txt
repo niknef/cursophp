@@ -1,0 +1,5 @@
+Las variables si estan dentro de una funcion no pueden ser accedidas
+
+pero hay un caso que si declaramos una variable fuera de la funcion, tampoco puede ser accedida dentro de la funcion
+
+podraimos llamarla usando la palabra global, que le estariamos diciendo que use la variable global 
